@@ -1,0 +1,57 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/management/management",
+    "pages/feedback/feedback",
+    "pages/choice/choice",
+    "pages/clock/clock",
+    "pages/transfer/transfer",
+    "pages/amusement/amusement",
+    "pages/calculator/calculator",
+    "pages/2048_game/2048_game",
+    "pages/2048_logs/2048_logs",
+    "pages/game/game",
+    "pages/logs/logs",
+    "pages/setting/setting"
+  ],
+  "tabBar": {
+
+    "color": "#bfbfbf",
+ 
+    "selectedColor": "#d81e06",
+ 
+    "list": [
+ 
+      {
+ 
+        "pagePath": "pages/index/index",
+ 
+        "text": "首 页"
+ 
+        
+ 
+      },
+ 
+      {
+ 
+        "pagePath": "pages/transfer/transfer",
+ 
+        "text": "我 的"
+ 
+        
+ 
+      }
+ 
+    ]
+ 
+  },
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "打卡小程序",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

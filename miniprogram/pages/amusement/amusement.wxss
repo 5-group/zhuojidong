@@ -1,0 +1,116 @@
+/* pages/index/index.wxss */
+page {
+  overflow: hidden; 
+  background: #EAF0FB; 
+}
+
+.user{
+  width: 90%;
+  height: 180rpx;
+  margin-top: 30rpx;
+  margin-left: 5%;
+  margin-right: 5%;
+  border: 4rpx solid #437dd4;
+  border-radius: 10rpx;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.userinfo{
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: white;
+}
+
+.userinfo-avatar{
+  height:130rpx;
+  width: 130rpx;
+  margin-left: 30rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname{
+  height: 100%;
+  width: 300rpx;
+  color:black;
+  font-size: 32rpx;
+  font-weight: normal;
+  display: flex;
+  align-items: center;
+  margin-left: 20rpx;
+}
+
+.management{
+  width: 140rpx;
+  margin-right: 20rpx;
+  line-height: 50rpx;
+  border: 4rpx solid #437dd4;
+  border-radius: 25rpx;
+  font-size: 25rpx;
+  color: rgb(0,0,0,0.6);
+  text-align: center;
+}
+
+.area{
+  width: 90%;
+  margin-top: 30rpx;
+  margin-left: 5%;
+  margin-right: 5%;
+  border: 4rpx solid #437dd4;
+  border-radius: 10rpx;
+  background-color: white;
+}
+
+
+
+.area-title{
+  width: 100%;
+  height: 80rpx;
+  display: flex;
+  align-items: center;
+  border-bottom: 4rpx solid #437dd4;
+}
+
+.title{
+  margin-left: 30rpx;
+  font-size: 34rpx;
+}
+
+
+
+.bottom-line{
+  margin-top: 40rpx;
+  padding-bottom: 80rpx;
+  width: 100%;
+  text-align: center;
+}
+
+.bottom-txt{
+  font-size: 34rpx;
+  color:#8a8a8a;
+}
+
+.bottom-click{
+  margin-top: 30%;
+  width:90%; 
+  height:100rpx; 
+  line-height:100rpx; 
+  margin-left:5%; 
+  margin-right:5%;
+  padding:0rpx;
+  background-color: #437dd4;
+  color: white;
+  font-size: 33rpx;
+  border-radius: 20rpx;
+}
+.word{
+  color:black;
+  margin-top: 10%;
+  margin-left: 20px;
+  
+}

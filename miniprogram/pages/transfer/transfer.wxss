@@ -1,0 +1,19 @@
+.page__title{
+  margin-left: 130px;
+}
+.one
+{
+  margin-top: 15%;
+  width:90%; 
+  height:100rpx; 
+  line-height:100rpx; 
+  margin-left:5%; 
+  margin-right:5%;
+  padding:0rpx;
+  background-color: #437dd4;
+  color: white;
+  font-size: 33rpx;
+  border-radius: 20rpx;
+ }
+
+ 

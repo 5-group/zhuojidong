@@ -1,0 +1,4 @@
+<button class="bottom-click" bindtap="math">2048</button>
+<button class="bottom-click"  bindtap="mineweeper">扫雷</button>
+
+

@@ -1,0 +1,5 @@
+
+<button class="bottom-click" bindtap="clock">番茄时钟</button>
+<button class="bottom-click"  bindtap="calculator">计算器</button>
+
+

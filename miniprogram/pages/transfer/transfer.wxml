@@ -1,0 +1,6 @@
+
+  <view >
+<button class="one" bindtap="jumpto1">我的打卡记录</button>
+</view>
+
+
